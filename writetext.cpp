@@ -14,7 +14,8 @@ int main( )
    { 
    output<<a;
    output<<" "<<b;
-   output<<" "<<c;//display data to console (i.e. as formatted chars)
+   output<<" "<<c<<endl;
+   ;//display data to console (i.e. as formatted chars)
    }
    else
    cout<<"Error";
